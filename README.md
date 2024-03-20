@@ -1,4 +1,4 @@
-<img width="255" alt="Cuplikan layar 2024-03-19 204305" src="https://github.com/weyndraig14/belajar-php-dasar/assets/162102805/0c9d4f1f-c94d-4bae-b55f-9d85b93f7892">
+
 <p align="center" >
   <b>POINT UTAMA</b>
 </p>
